@@ -442,6 +442,15 @@ font-weight: bold;
   text-decoration-color: #00A79D;
 }
 
+@media screen and (max-width: 400px){
+
+  .about-text{
+    display: none;
+  }
+
+}
+
+
 /*=============== section skills ========================*/
 .skills{
   min-height:100vh;
