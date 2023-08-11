@@ -653,8 +653,7 @@ i{
 table{
   margin-left: auto;
   margin-right:auto;
-  /* overflow-x:scroll; */
-}
+ }
 
 
 table tbody td{
